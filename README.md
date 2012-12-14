@@ -1,2 +1,0 @@
-samazgor.github.com
-===================
