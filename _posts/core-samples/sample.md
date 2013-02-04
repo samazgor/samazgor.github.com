@@ -1,8 +1,11 @@
 ﻿---
 layout: post
-title :  Hello World
-categories : [lessons, beginner]
+category : lessons
+tags : [intro, beginner, jekyll, tutorial]
 ---
+
 {% include JB/setup %}
 
 This Jekyll sample for testign perpose
+
+##sam
