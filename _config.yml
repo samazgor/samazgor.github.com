@@ -1,6 +1,6 @@
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:categories/:year/:month/:day/:title 
+permalink: /:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
@@ -16,7 +16,7 @@ author :
   email : sam@azgor.com
   github : samazgor
   twitter : samazgor
-  feedburner : feedname
+  feedburner : samazgor
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -41,11 +41,11 @@ JB :
   #   DO NOT SET BASE_PATH 
   #   (urls will be prefixed with "/" and work relatively)
   #
-  # GitHub Pages (http://username.github.com)
+  # GitHub Pages (http://samazgor.github.com)
   #   DO NOT SET BASE_PATH 
   #   (urls will be prefixed with "/" and work relatively)
   #
-  # GitHub Project Pages (http://username.github.com/project-name)
+  # GitHub Project Pages (http://samazgor.github.com/project-name)
   #
   #   A GitHub Project site exists in the `gh-pages` branch of one of your repositories.
   #  REQUIRED! Set BASE_PATH to: http://username.github.com/project-name
