@@ -5,3 +5,8 @@ padding: 13px 10px 0px 15px;
 border-radius: 2px 2px 2px 2px;
 -moz-border-radius: 2px 2px 2px 2px;
 }
+article:hover {
+text-decoration: none;
+background: #C7CAA4;
+z-index: 6;
+}
