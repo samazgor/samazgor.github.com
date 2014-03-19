@@ -10,3 +10,7 @@ text-decoration: none;
 background: #F0FDDC;
 z-index: 6;
 }
+
+.entry-meta {
+    display: none;
+}
