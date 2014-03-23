@@ -14,3 +14,8 @@ z-index: 6;
 .entry-meta {
     display: none;
 }
+
+.entry p {
+font: normal 15px "Times New Roman", serif;
+color: #333;
+}
