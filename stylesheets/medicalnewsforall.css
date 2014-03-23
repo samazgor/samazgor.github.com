@@ -19,3 +19,8 @@ z-index: 6;
 font: normal 15px "Times New Roman", serif;
 color: #333;
 }
+
+.post .title {
+font: normal 20px "Times New Roman", serif;
+color: #344E5A;
+}
