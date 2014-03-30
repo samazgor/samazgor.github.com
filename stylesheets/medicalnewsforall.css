@@ -25,6 +25,11 @@ font: normal 20px "Times New Roman", serif;
 color: #344E5A;
 }
 
+.post .title a:link,
+{
+color: #FF0D0D;
+}
+
 .alignleft {
 float: left;
 margin: 5px 10px 0px 0px;
