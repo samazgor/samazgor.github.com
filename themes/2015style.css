@@ -28,9 +28,9 @@ margin: 0 4%;
 
 .site-footer {
 float: left;
-margin: 2% 0 0 35.2941%;
-padding: 0;
-width: 58.8235%;
+margin: 2%;
+padding: 0%;
+width: 100%;
 }
 
 .entry-title {font-size: 110%;margin-bottom: 0%;}
@@ -40,7 +40,7 @@ p{font-size: 95%;}
 .site-content {
 display: block;
 float: left;
-margin-left: 0%;
+margin-left: 1.66%;
 width: 100%;
 }
 
