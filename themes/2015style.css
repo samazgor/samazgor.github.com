@@ -52,3 +52,7 @@ background-color: powderblue;
 .post-thumbnail {
 margin-bottom: 0%;
 }
+
+body:before {
+background-color: rgba(255, 255, 255, 0);
+}
