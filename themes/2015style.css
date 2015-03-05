@@ -28,9 +28,13 @@ margin: 0 4%;
 
 .site-footer {
 float: left;
-margin: 2%;
+margin: 0% 4.5%;
 padding: 0%;
-width: 100%;
+width: 93%;
+}
+
+.site-info {
+padding: 3% 5% 1% 5%;
 }
 
 .entry-title {font-size: 110%;margin-bottom: 0%;}
