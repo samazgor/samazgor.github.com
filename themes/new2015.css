@@ -47,6 +47,7 @@ font-size: 97%;
   float: left;
   margin-left: 0%;
   width: 100%;
+  background: wheat;
 }
 
 body:before {
