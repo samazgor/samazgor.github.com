@@ -58,5 +58,7 @@ width: 01%;
   width: 93%;
 }
 .site-info {
-  padding: 3% 5% 1% 5%;
+  padding: 2% 5% 2% 5%;
+  text-align: center;
+  font-size: small;
 }
