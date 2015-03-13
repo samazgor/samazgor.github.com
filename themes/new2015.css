@@ -12,6 +12,12 @@
  Text Domain:  twenty-fifteen-child
 */
 
+@media screen and (min-width: 38.75em) {
+	.half {
+	width: 100%;
+	float: left;
+}
+}
 .half {
 	width: 50%;
 	float: left;
