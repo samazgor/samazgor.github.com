@@ -50,3 +50,10 @@ font-size: 97%;
 body:before {
 width: 01%;
 }
+
+.site-footer {
+  float: left;
+  margin: 2% 3.6%;
+  padding: 0%;
+  width: 93%;
+}
