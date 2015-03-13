@@ -63,3 +63,10 @@ width: 01%;
   text-align: center;
   font-size: small;
 }
+.entry-header {
+  padding: 3% 3% .003% 3%;
+  background: tomato;
+}
+.post-thumbnail {
+  margin-bottom: 0em;
+}
