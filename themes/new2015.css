@@ -47,7 +47,7 @@ font-size: 97%;
   float: left;
   margin-left: 0%;
   width: 100%;
-  background: wheat;
+  background: rgb(255, 255, 150);
 }
 
 body:before {
