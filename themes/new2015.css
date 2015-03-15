@@ -67,7 +67,7 @@ width: 01%;
 }
 .entry-header {
   padding: 3% 3% .01% 3%;
-  background: tomato;
+  background: rgba(191, 215, 42, 0.18);
 }
 .post-thumbnail {
   margin-bottom: 0em;
