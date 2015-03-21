@@ -73,6 +73,11 @@ width: 0%;
   text-align: center;
   font-size: small;
 }
+
+.site-info a{
+color: yellow;
+}
+
 .entry-header {
   padding: 3% 3% .01% 3%;
   /*background: rgba(191, 215, 42, 0.18);*/
@@ -95,11 +100,6 @@ width: 0%;
 }
 #header h1 a span { display: none; }
 
-/*   Footer Home */
-.hmftr
-{
-  color: yellow;
-}
 
 /*   css menu */
 @import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro);
