@@ -33,6 +33,7 @@ padding: 0% 0%;
 
 .hentry {
 margin: 0% 0%;
+box-shadow: 0 0 1px rgba(0, 0, 0, 1);
 }
 
 .entry-title {
