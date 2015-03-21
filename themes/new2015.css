@@ -65,6 +65,8 @@ width: 0%;
   margin: 0% 5.2%;
   padding: 0%;
   width: 90%;
+  background-color: #111;
+  border-top: 5px solid #FFFFFF;
 }
 .site-info {
   padding: 2% 5% 2% 5%;
