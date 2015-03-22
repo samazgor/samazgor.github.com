@@ -60,6 +60,10 @@ body:before {
 width: 0%;
 }
 
+.entry-footer {
+  padding: 2% 10%;
+}
+
 .site-footer {
   float: left;
   margin: 0% 5%;
