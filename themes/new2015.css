@@ -16,14 +16,14 @@
 	.half {
 	width: 100%;
 	float: left;
-	margin: 0% 0% 4% 0%;
+	margin: 0%;
 }
 }
 @media screen and (min-width: 46.25em) {
 .half {
 	width: 50%;
 	float: left;
-	margin: 0% 0% 4% 0%;
+	margin: 0%;
 }
 }
 
@@ -33,7 +33,7 @@ padding: 0% 0%;
 
 .hentry {
 margin: 0% 0%;
-box-shadow: 0 0 1px rgba(0, 0, 0, 1);
+/* box-shadow: 0 0 1px rgba(0, 0, 0, 1); */
 }
 
 .entry-title {
