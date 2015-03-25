@@ -41,6 +41,10 @@ font-size: 120%;
 text-align: center;
 }
 
+.entry-content {
+padding: 0 10% 2%;
+}
+
 p {
 font-size: 97%;
 }
