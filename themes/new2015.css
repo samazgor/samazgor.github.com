@@ -16,14 +16,14 @@
 	.half {
 	width: 100%;
 	float: left;
-	margin: 0% 0% 2% 0%;
+	margin: 0% 0% .5% 0%;
 }
 }
 @media screen and (min-width: 46.25em) {
 .half {
 	width: 50%;
 	float: left;
-	margin: 0% 0% 2% 0%;
+	margin: 0% 0% .5% 0%;
 }
 }
 
