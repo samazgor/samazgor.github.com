@@ -149,12 +149,12 @@ color: yellow;
   border: 1px solid #98c571;
   font-family: 'Noto SERIF', sans-serif;
   line-height: 1;
-  background: #bfdba7;
+  background: #dcdbd9 url('https://archive.is/pO822/c1ee0de9ed90822e633451f62a57f56dd5ded12f.png');
   background: -webkit-linear-gradient(bottom, #b2d495, #cce2b9);
   background: -ms-linear-gradient(bottom, #b2d495, #cce2b9);
   background: -moz-linear-gradient(bottom, #b2d495, #cce2b9);
   background: -o-linear-gradient(bottom, #b2d495, #cce2b9);
-  background: linear-gradient(to top, #b2d495, #cce2b9);
+  background: #dcdbd9 url('https://archive.is/pO822/c1ee0de9ed90822e633451f62a57f56dd5ded12f.png');
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15), inset 0 -2px 0px #aacf8a, inset 0 1px 0 #d4e7c4;
 }
 #cssmenu > ul > li {
