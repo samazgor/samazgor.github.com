@@ -232,12 +232,12 @@ color: yellow;
   height: 20px;
   width: 1px;
   opacity: .35;
-  background: rgba(255, 255, 255, 0.8);
-  background: linear-gradient(to top, rgba(0, 0, 0, 0), #ffffff, rgba(0, 0, 0, 0));
+  background: #dcdbd9 url('http://cdn2.pcadvisor.co.uk/graphics/page-elements/str_bg.png?1380273731');
+  /* background: linear-gradient(to top, rgba(0, 0, 0, 0), #ffffff, rgba(0, 0, 0, 0));
   background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0), #ffffff, rgba(0, 0, 0, 0));
   background: -ms-linear-gradient(top, rgba(0, 0, 0, 0), #ffffff, rgba(0, 0, 0, 0));
   background: -moz-linear-gradient(top, rgba(255, 255, 255, 0.01), #ffffff, rgba(255, 255, 255, 0.01));
-  background: -o-linear-gradient(top, rgba(0, 0, 0, 0), #ffffff, rgba(0, 0, 0, 0));
+  background: -o-linear-gradient(top, rgba(0, 0, 0, 0), #ffffff, rgba(0, 0, 0, 0)); */
 }
 #cssmenu.align-right > ul > li:before {
   right: auto;
