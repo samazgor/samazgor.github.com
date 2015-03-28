@@ -30,7 +30,7 @@ p {font-size: 90%;}
 }
 
 @media screen and (min-width: 77.5em){
-.entry-title {.entry-title {font-size: 120%;}}
+.entry-title {.entry-title {font-size: 120%;}
 }
 
 /* rest of the css */
