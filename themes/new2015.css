@@ -12,8 +12,8 @@
  Text Domain:  twenty-fifteen-child
 */
 
-@media screen and (min-width: 59.6875em)
-.site-main { padding: 3.3333% 0;}
+@media screen and (min-width: 59.6875em){
+.site-main { padding: 3.3333% 0;}}
 
-@media screen and (min-width: 38.75em)
-.site-main { padding: 3.6923% 0; }
+@media screen and (min-width: 38.75em){
+.site-main { padding: 3.6923% 0; }}
