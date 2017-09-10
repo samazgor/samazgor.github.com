@@ -124,3 +124,9 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
+
+title: Samazgor.github.com
+description: 
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
