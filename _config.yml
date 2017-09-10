@@ -81,7 +81,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : samazgorgithub
     livefyre :
       site_id : 123
     intensedebate :
@@ -99,7 +99,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-92586675-3'
     getclicky :
       site_id : 
     mixpanel :
@@ -125,7 +125,7 @@ JB :
   # where [HELPER] is the name of the helper you are overriding.
   
 
-title: Samazgor.github.com
+title: samazgor.github.com
 description: 
 google_analytics: 
 show_downloads: true
