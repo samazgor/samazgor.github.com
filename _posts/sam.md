@@ -1,10 +1,7 @@
 ---
-layout: default
-title:  "Welcome to Jekyll!"
-date:   2017-09-25 16:16:01 -0600
-categories: jekyll update
-permalink: mypageurl.html
+layout: post
+title: "Hank Quinlan, Horrible Cop, Launches Site"
+date: 2014-04-30
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `bundle exec jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
