@@ -1,7 +1,7 @@
 ---
-layout: post
 id: 65
 title: 'DigitalOcean Promo Code &#8211; $50 Credit'
+description: DigitalOcean, Inc. cloud infrastructure provider. If you’re reading my article which means you are interested in DigitalOcean coupon. So, in this article i’ll show how you can get 10 months free SSD cloud server from DigitalOcean.
 date: 2016-03-15T11:20:00+00:00
 author: Sam Azgor
 layout: post
@@ -14,12 +14,15 @@ tags:
   - Coupon
   - DigitalOcean
   - VPS
-excerpt: DigitalOcean, Inc. cloud infrastructure provider. If you’re reading my article which means you are interested in DigitalOcean coupon. So, in this article i’ll show how you can get 10 months free SSD cloud server from DigitalOcean.
-
 ---
 <strong>DigitalOcean, Inc.</strong> or in short <strong>DO</strong> is a US based cloud infrastructure provider that provisions VPS for software developers (<em>Wikipedia</em>). If you're reading my article which means you are interested in Virtual Private Server and specifically in DigitalOcean. So, in this article i'll show how you can get 10 months free SSD cloud server from DigitalOcean. It'll save you a lot and if you are newbie you can learn vps, linux, cloud hosting etc with these credits.
 
-[caption id="attachment_76" align="aligncenter" width="967"]<img src="http://sam.azgor.com/wp-content/uploads/digitalocean-coupon-code/DO-50-Dollar-Credit.jpg" alt="DO 50 Dollar Credit" width="967" height="322" class="size-full wp-image-76" />10 months of free VPS Hosting at DigitalOcean[/caption]
+<figure>
+<amp-img src="http://sam.azgor.com/wp-content/uploads/digitalocean-coupon-code/DO-50-Dollar-Credit.jpg" alt="DO 50 Dollar Credit" width="600" height="300" layout="responsive">
+</amp-img>
+<figcaption>*10 months of free VPS Hosting at DigitalOcean* 
+</figcaption>
+</figure>
 
 <h2>How to get 50$ Credit of DigitalOcean:</h2>
 In order to get the coupon you will need to be a student aged 13+ and You must have <strong>new DO account</strong> with new billing address. It means your Credit Card or PayPal must not used in digitalocean account before. If you already have account on DigitalOcean, the coupon will not work. 

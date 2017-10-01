@@ -6,7 +6,9 @@ layout: default
     <div class="post-meta">
       <h1 class="post-title">{{ page.title }}</h1>
     </div>
-<amp-img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}"></amp-img>
+
+<div class="page-img">{% if page.image %}<amp-img width="600" height="300" layout="responsive" src="{{ page.image | prepend: site.baseurl }}" alt="{{ page.title }}" title="{{ page.title }}"></amp-img>{% endif %}</div>
+
     <section class="post-content">
       <a name="topofpage"></a>
       {{content}}
@@ -47,7 +49,7 @@ layout: default
       <div class="isRight">
         <h5 class="index-headline featured"><span>Supported by</span></h5>
         <footer class="site-footer">
-          <section class="poweredby">Proudly published with <a href="http://jekyllrb.com"> Jekyll</a> and <a href="https://github.com/ageitgey/amplify">Amplify</a></section>
+          <section class="poweredby">Proudly published with <a rel="nofollow" href="http://jekyllrb.com"> Jekyll</a> and <a href="https://github.com/ageitgey/amplify">Amplify</a></section>
           <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> You should subscribe to my feed.</span></a>
           <div class="inner">
             <section class="copyright">All content copyright <a href="mailto:{{ site.email}}">{{site.name}}</a> &copy; {{ site.time | date: '%Y' }}<br>All rights reserved.</section>
