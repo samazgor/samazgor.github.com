@@ -37,7 +37,11 @@ In order to get the coupon you will need to be a student aged 13+ and You must h
 </ol>
 
 <hr>
-<blockquote>As a learner, <strong>GitHub Student Developer Pack</strong> will give you massive amount of free, useful & fantastic tools from best company like Atom - AWS - Bitnami - Crowdflower - DNSimple - GitHub - HackHands - DreamSpark - NameCheap - Orchestrate - Screenhero - SendGrid -  Stripe - Travis CI - Unreal Engine</blockquote>
+
+<blockquote>
+As a learner, <strong>GitHub Student Developer Pack</strong> will give you massive amount of free, useful & fantastic tools from best company like Atom - AWS - Bitnami - Crowdflower - DNSimple - GitHub - HackHands - DreamSpark - NameCheap - Orchestrate - Screenhero - SendGrid -  Stripe - Travis CI - Unreal Engine
+</blockquote>
+
 
 <ul>
 <li><strong>Atom</strong>: Direct access on the <a href="https://atom.io/">Atom</a> website. If you haven't used Atom yet, you probably missed a lot of things. Try hack the code.</li>
