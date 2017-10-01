@@ -23,7 +23,7 @@ I think there are many method that you can block or prevent ads or being shown o
 <table class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
 <tbody>
 <tr>
-<td style="text-align: center;"><img style="margin-left: auto; margin-right: auto;" title="DoubleClick for Publishers" src="https://1.bp.blogspot.com/_7ZYqYi4xigk/S4KnjMfU4UI/AAAAAAAAFoo/CjTVe1RnP9g/s350/DFP_SmallBusiness_color.jpg" alt="DoubleClick for Publishers" /></td>
+<td style="text-align: center;"><amp-img layout="responsive"  title="DoubleClick for Publishers" src="https://1.bp.blogspot.com/_7ZYqYi4xigk/S4KnjMfU4UI/AAAAAAAAFoo/CjTVe1RnP9g/s350/DFP_SmallBusiness_color.jpg" alt="DoubleClick for Publishers" ></amp-img></td>
 </tr>
 <tr>
 <td class="tr-caption" style="text-align: center;">DFP getting started tutorial</td>
@@ -93,7 +93,7 @@ Screenshot of AdSense Being Shown off in Specific Countries</h3>
 <table class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
 <tbody>
 <tr>
-<td style="text-align: center;"><img style="margin-left: auto; margin-right: auto;" title="Sign in to DFP" src="https://4.bp.blogspot.com/-PqQioxp0oFA/T74RIQS_CNI/AAAAAAAACVs/18sam6vo06E/s1600/dfp-login.jpg" alt="Sign in to DFP" width="550" /></td>
+<td style="text-align: center;"><amp-img layout="responsive"  title="Sign in to DFP" src="https://4.bp.blogspot.com/-PqQioxp0oFA/T74RIQS_CNI/AAAAAAAACVs/18sam6vo06E/s1600/dfp-login.jpg" alt="Sign in to DFP" width="550" ></amp-img></td>
 </tr>
 <tr>
 <td class="tr-caption" style="text-align: center;">Sign in to DFP</td>
@@ -103,7 +103,7 @@ Screenshot of AdSense Being Shown off in Specific Countries</h3>
 <table class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
 <tbody>
 <tr>
-<td style="text-align: center;"><img style="margin-left: auto; margin-right: auto; text-align: center;" title="Create Ad Units" src="https://1.bp.blogspot.com/-IFOFkSL-IXY/T8EUfZpoV_I/AAAAAAAACWs/rht2sR5iA8w/s1600/dfp-New-Ad-Unit.jpg" alt="Create Ad Units" width="550" /></td>
+<td style="text-align: center;"><amp-img layout="responsive" style="margin-left: auto; margin-right: auto; text-align: center;" title="Create Ad Units" src="https://1.bp.blogspot.com/-IFOFkSL-IXY/T8EUfZpoV_I/AAAAAAAACWs/rht2sR5iA8w/s1600/dfp-New-Ad-Unit.jpg" alt="Create Ad Units" width="550" ></amp-img></td>
 </tr>
 <tr>
 <td class="tr-caption" style="text-align: center;">Create Ad Units</td>
@@ -113,7 +113,7 @@ Screenshot of AdSense Being Shown off in Specific Countries</h3>
 <table class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
 <tbody>
 <tr>
-<td style="text-align: center;"><img title="Ad Placements" src="https://4.bp.blogspot.com/-H83DZahVjDw/T8ESCP767DI/AAAAAAAACWQ/qw0_0iPYenU/s1600/dfp-New-Placement.jpg" alt="Ad Placements" width="550" /></td>
+<td style="text-align: center;"><amp-img layout="responsive" title="Ad Placements" src="https://4.bp.blogspot.com/-H83DZahVjDw/T8ESCP767DI/AAAAAAAACWQ/qw0_0iPYenU/s1600/dfp-New-Placement.jpg" alt="Ad Placements" width="550" ></amp-img></td>
 </tr>
 <tr>
 <td class="tr-caption" style="text-align: center;">Ad Placements</td>
@@ -123,7 +123,7 @@ Screenshot of AdSense Being Shown off in Specific Countries</h3>
 <table class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
 <tbody>
 <tr>
-<td style="text-align: center;"><img style="margin-left: auto; margin-right: auto;" title="Ad Order" src="https://3.bp.blogspot.com/-z00yl0Bod4c/T8pWC45wPhI/AAAAAAAACZw/7Ppvrm0Dm_U/s1600/dfp-New-Order.jpg" alt="Ad Order" width="550" /></td>
+<td style="text-align: center;"><amp-img layout="responsive"  title="Ad Order" src="https://3.bp.blogspot.com/-z00yl0Bod4c/T8pWC45wPhI/AAAAAAAACZw/7Ppvrm0Dm_U/s1600/dfp-New-Order.jpg" alt="Ad Order" width="550" ></amp-img></td>
 </tr>
 <tr>
 <td class="tr-caption" style="text-align: center;">Ad Order</td>
@@ -133,7 +133,7 @@ Screenshot of AdSense Being Shown off in Specific Countries</h3>
 <table class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
 <tbody>
 <tr>
-<td style="text-align: center;"><img title="Order Setting" src="https://2.bp.blogspot.com/-VaDBf5qlDbQ/T8tDJLN__iI/AAAAAAAACaM/Pu2r27AF8Ko/s1600/dfp-New-Order-Setting.jpg" alt="Order Setting" /></td>
+<td style="text-align: center;"><amp-img layout="responsive" title="Order Setting" src="https://2.bp.blogspot.com/-VaDBf5qlDbQ/T8tDJLN__iI/AAAAAAAACaM/Pu2r27AF8Ko/s1600/dfp-New-Order-Setting.jpg" alt="Order Setting" ></amp-img></td>
 </tr>
 <tr>
 <td class="tr-caption" style="text-align: center;">Order Setting</td>
@@ -143,7 +143,7 @@ Screenshot of AdSense Being Shown off in Specific Countries</h3>
 <table class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;" cellspacing="0" cellpadding="0" align="center">
 <tbody>
 <tr>
-<td style="text-align: center;"><img title="Geo targeting " src="https://1.bp.blogspot.com/-6oRpr5I1mw4/T8u2G_5ChdI/AAAAAAAACao/ZmhuQ9nNMGw/s1600/dfp-New-Order-Add-targeting.jpg" alt="Geo targeting" width="550" /></td>
+<td style="text-align: center;"><amp-img layout="responsive" title="Geo targeting " src="https://1.bp.blogspot.com/-6oRpr5I1mw4/T8u2G_5ChdI/AAAAAAAACao/ZmhuQ9nNMGw/s1600/dfp-New-Order-Add-targeting.jpg" alt="Geo targeting" width="550" ></amp-img></td>
 </tr>
 <tr>
 <td class="tr-caption" style="text-align: center;">Geo targeting</td>

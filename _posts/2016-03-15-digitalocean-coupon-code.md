@@ -1,4 +1,5 @@
 ---
+layout: post
 id: 65
 title: 'DigitalOcean Promo Code &#8211; $50 Credit'
 date: 2016-03-15T11:20:00+00:00
@@ -6,13 +7,15 @@ author: Sam Azgor
 layout: post
 guid: http://sam.azgor.com/?p=65
 permalink: /digitalocean-coupon-code/
-image: /wp-content/uploads/digitalocean-coupon-code/DigitalOcean-Promo-Code-1200x600.jpg
+image: /wp-content/uploads/digitalocean-coupon-code/DigitalOcean-Promo-Code.jpg
 categories:
   - Discount Coupons
 tags:
   - Coupon
   - DigitalOcean
   - VPS
+excerpt: DigitalOcean, Inc. cloud infrastructure provider. If you’re reading my article which means you are interested in DigitalOcean coupon. So, in this article i’ll show how you can get 10 months free SSD cloud server from DigitalOcean.
+
 ---
 <strong>DigitalOcean, Inc.</strong> or in short <strong>DO</strong> is a US based cloud infrastructure provider that provisions VPS for software developers (<em>Wikipedia</em>). If you're reading my article which means you are interested in Virtual Private Server and specifically in DigitalOcean. So, in this article i'll show how you can get 10 months free SSD cloud server from DigitalOcean. It'll save you a lot and if you are newbie you can learn vps, linux, cloud hosting etc with these credits.
 
