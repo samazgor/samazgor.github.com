@@ -4,18 +4,18 @@ title: Legal
 date: 2015-06-01T20:47:55+00:00
 author: Sam Azgor
 layout: page
-guid: http://sam-azgor.rhcloud.com/?page_id=5
-image: /wp-content/uploads/privacy/legal-1200x800.jpg
+image: /wp-content/uploads/privacy/legal.jpg
+description: Sam Azgor's legal page - Disclaimer, Privacy Policy, Terms of Service Agreement, DMCA Copyright Policy.
 ---
 <h2>Sam Azgor's Privacy Policy</h2>
-This site is a personal blog written and edited by me. This site may accept forms of cash advertising, sponsorship, paid insertions or other forms of compensation. This site uses third-party <a href="http://sam.azgor.com/advertise">advertising</a> companies <i>(e.g. Google AdSense, Amazon etc)</i> to serve ads when you visit this website. And also uses Google Analytics to help analyse how users use the site. These companies may use information (<i>not including your name, address, email address, or telephone number</i>) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="http://www.google.com/policies/privacy/ads/">click here</a>.
+This site is a personal blog written and edited by me. This site may accept forms of cash advertising, sponsorship, paid insertions or other forms of compensation. This site uses third-party <a href="http://sam.azgor.com/advertise">advertising</a> companies <i>(e.g. Google AdSense, Amazon etc)</i> to serve ads when you visit this website. And also uses Google Analytics to help analyze how users use the site. These companies may use information (<i>not including your name, address, email address, or telephone number</i>) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="http://www.google.com/policies/privacy/ads/">click here</a>.
 You have the ability to accept or decline cookies by modifying the settings on your browser.
 
 <h2>Disclaimer:</h2>
-The editor(s) reserve the right to edit any comments that are found to be abusive, offensive, contain profanity, serves as spam, is largely self-promotional, or displaying attempts to harbour irrelevant text links for any purpose.
+The editor(s) reserve the right to edit any comments that are found to be abusive, offensive, contain profanity, serves as spam, is largely self-promotional, or displaying attempts to harbor irrelevant text links for any purpose.
 
 <h2>Terms of Service Agreement</h2>
-I offer no refund for the services you've purchased. But if you believe that there is some issue, please contact me. May be partial refund is available, but i do not guarantee.
+I offer no refund for the services you've purchased. But if you believe that there is some issue, please contact me. Maybe partial refund is available, but I do not guarantee.
 
 <h2>DMCA Copyright Policy</h2>
 If you believe that material or content residing on or accessible through this site infringes a copyright, please send a notice of copyright infringement containing the following information:

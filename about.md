@@ -4,9 +4,9 @@ title: About Sam Azgor
 date: 2017-06-01T20:42:37+00:00
 author: Sam Azgor
 layout: page
-guid: http://sam-azgor.rhcloud.com/?page_id=2
+image: /assets/images/sam-azgor.jpg
+description: Howdy. My name is Sam Azgor. My online presence started as a blogger. I write various type of articles.
 ---
-<img style="display: block; margin: 1em auto; background-size: cover; background-repeat: no-repeat; background-position: center center; -webkit-border-radius: 99em; -moz-border-radius: 99em; border-radius: 99em; border: 5px solid #eee; box-shadow: 0 0 8px rgba(0, 0, 0, .8);" title="Sam" src="https://lh5.googleusercontent.com/-nPCK9ebdDo8/AAAAAAAAAAI/AAAAAAAABpo/lmJW0Squv4Q/s550/photo.jpg" alt="Sam" />
 <strong>About Sam Azgor</strong>
 
 Howdy. My name is <a title="sam azgor" href="#Sam">Sam Azgor</a>. My online presence started as a blogger. I was born in <strong>Narshingdi</strong> and raised in <strong>Dhaka</strong>. I'm a post graduate student. Along with study i do freelance. Play with code is my hobby and profession as well. 

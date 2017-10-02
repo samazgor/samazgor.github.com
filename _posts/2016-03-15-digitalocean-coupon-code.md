@@ -1,11 +1,10 @@
 ---
 id: 65
-title: 'DigitalOcean Promo Code &#8211; $50 Credit'
+title: 'DigitalOcean Promo Code - $50 Credit'
 description: DigitalOcean, Inc. cloud infrastructure provider. If you’re reading my article which means you are interested in DigitalOcean coupon. So, in this article i’ll show how you can get 10 months free SSD cloud server from DigitalOcean.
 date: 2016-03-15T11:20:00+00:00
 author: Sam Azgor
 layout: post
-guid: http://sam.azgor.com/?p=65
 permalink: /digitalocean-coupon-code/
 image: /wp-content/uploads/digitalocean-coupon-code/DigitalOcean-Promo-Code.jpg
 categories:

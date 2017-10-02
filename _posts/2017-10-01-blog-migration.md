@@ -1,6 +1,18 @@
 ---
 layout: post
-title: My New Post
+title: Blog Migration
+description: WordPress to Jekyll blog migration.
+date: 2017-10-01T11:20:00+00:00
+author: Sam Azgor
+layout: post
+permalink: /blog-migration/
+image: /wp-content/uploads/digitalocean-coupon-code/DigitalOcean-Promo-Code.jpg
+categories:
+  - Discount Coupons
+tags:
+  - Coupon
+  - DigitalOcean
+  - VPS
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit!
