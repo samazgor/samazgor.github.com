@@ -27,7 +27,7 @@ tags:
 In order to get the coupon you will need to be a student aged 13+ and You must have <strong>new DO account</strong> with new billing address. It means your Credit Card or PayPal must not used in digitalocean account before. If you already have account on DigitalOcean, the coupon will not work. 
 
 <ol>
-	<li>First create a new account on <a href="https://www.digitalocean.com/?refcode=63c905acd172" target="_blank">Digital Ocean</a>. Use my affiliate and get 10$ credit immediately. <a href="/do" target="_blank">Click Here</a>.</li>
+	<li>First create a new account on <a href="https://www.digitalocean.com/?refcode=63c905acd172" target="_blank">Digital Ocean</a>. Use my affiliate and get 10$ credit immediately. <a href="https://www.digitalocean.com/?refcode=63c905acd172" target="_blank">Click Here</a>.</li>
 	<li>Now verify email & complete your user profile on DO, And add Credit Card or deposit minimum 5$ via PayPal if you don't have CC. It's required in order to activate DO account.</li>
 	<li>Now create a new account on <a href="https://github.com/" target="_blank">GitHub</a>. if you already have github account, you can use it. Please complete your GitHub profile (optional). It'll present you as a real person.</li>
 	<li>Now go to <a href="https://education.github.com/" target="_blank">GitHub Education</a> and click on the <strong>Request Discount</strong> button. Fillup your info and select <strong>I don't have a school-issued email</strong> in the "<em>Verify academic status</em>" section if you don't have <code>.edu</code> or <code>.ac.uk</code> like email. Next, upload a scan copy of your school, college or university ID card, academic transcript, other official proof of enrollment to show your current studentship and age 13+.</li>
