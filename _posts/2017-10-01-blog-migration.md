@@ -14,4 +14,10 @@ tags:
 format: status
 ---
 
-Finally i have moved to jekyll :) from WordPress. Tension free website hosting......
+Finally i have moved to Jekyll :) from WordPress. Tension free website hosting.
+
+
+I'll write step by step guides about migration to jekyll from wordpress or blogspot.
+
+
+Keep in touch.
