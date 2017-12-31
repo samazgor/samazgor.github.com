@@ -14,6 +14,6 @@ tags:
 format: status
 ---
 
-It is time to leave the old year behind and usher in the new.
+It is time to leave the old year behind and introduce in the new.
 
 Before the calendar turns a new leaf over, before the social networking sites get flooded with messages, before the mobile networks get congested, let me take a quiet moment out to wish you a wonderful, happy, healthy and prosperous New Year!"
