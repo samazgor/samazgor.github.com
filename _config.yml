@@ -17,8 +17,7 @@ paginate:	5 # The number of posts to show per page on your homepage
 
 name: 'Sam Azgor'
 bio: >
-  Howdy. My name is Sam Azgor. My online presence started as a blogger.
-  I write various type of articles.
+  Howdy. My name is Sam Azgor. My online presence started as a blogger. Currently i play with remote machines. Occasionally I write various type of articles.
 author_image: "/assets/images/author.jpg"
 twitter_username: samazgor
 github_username:  samazgor
