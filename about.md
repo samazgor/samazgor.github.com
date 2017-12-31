@@ -1,12 +1,15 @@
 ---
 id: 2
 title: About
-date: 2017-06-01T20:42:37+00:00
+date: 2012-06-01T20:42:37+00:00
 author: Sam Azgor
 layout: page
 image: /assets/images/sam-azgor.jpg
 description: Howdy. My name is Sam Azgor. My online presence started as a blogger. I write various type of articles.
 ---
+
+If you are reading this, you must be curious about me or my websit (if i'm not wrong).
+
 <strong>About Sam Azgor</strong>
 
 Howdy. My name is <a title="sam azgor" href="#Sam">Sam Azgor</a>. My online presence started as a blogger. I was born in <strong>Narshingdi</strong> and raised in <strong>Dhaka</strong>. I'm a post graduate student. Along with study i do freelance. Play with code is my hobby and profession as well. 
