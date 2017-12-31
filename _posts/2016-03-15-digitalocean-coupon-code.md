@@ -17,7 +17,7 @@ tags:
 <strong>DigitalOcean, Inc.</strong> or in short <strong>DO</strong> is a US based cloud infrastructure provider that provisions VPS for software developers (<em>Wikipedia</em>). If you're reading my article which means you are interested in Virtual Private Server and specifically in DigitalOcean. So, in this article i'll show how you can get 10 months free SSD cloud server from DigitalOcean. It'll save you a lot and if you are newbie you can learn vps, linux, cloud hosting etc with these credits.
 
 <figure>
-<amp-img src="http://sam.azgor.com/wp-content/uploads/digitalocean-coupon-code/DO-50-Dollar-Credit.jpg" alt="DO 50 Dollar Credit" width="600" height="300" layout="responsive">
+<amp-img src="/wp-content/uploads/digitalocean-coupon-code/DO-50-Dollar-Credit.jpg" alt="DO 50 Dollar Credit" width="600" height="300" layout="responsive">
 </amp-img>
 <figcaption>*10 months of free VPS Hosting at DigitalOcean* 
 </figcaption>
