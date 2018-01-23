@@ -32,9 +32,9 @@ sudo apt-get install remmina remmina-plugin-rdp
 2) Now close Remmina RDP Client and open it again.
 
 <figure>
-<amp-img src="/assets/images/remmina-rdp-ubuntu/remmina-rdp-copy-paste-issue.png" alt="Remmina RDP Client" width="600" height="300" layout="responsive">
+<amp-img src="/assets/images/remmina-rdp-ubuntu/terminal.png" alt="Remmina RDP Client" width="600" height="300" layout="responsive">
 </amp-img>
-<figcaption>*Remmina RDP Client* 
+<figcaption>*Ubuntu 16.04 Terminal* 
 </figcaption>
 </figure>
 
