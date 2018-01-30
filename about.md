@@ -15,7 +15,7 @@ If you are reading this, you must be curious about me or my websit (if i'm not w
 Howdy. My name is <a title="sam azgor" href="#Sam">Sam Azgor</a>. My online presence started as a blogger. I was born in <strong>Narshingdi</strong> and raised in <strong>Dhaka</strong>. I'm a post graduate student. Along with study i do freelance. Play with code is my hobby and profession as well. 
 
 <h3>About this blog:</h3>
-Well, i have been blogging since 2010. I wrote about tutorials, tips & tricks regarding SEO, Blogging, WordPress, Blogspot, adSense, Windows, linux etc. Due to personal problem, I couldn't continue blogging since 2012. Recently i decided to start again. From 2018, I'll continue writing & share my experience, Insha-Allah.
+Well, i have been blogging since 2010. I wrote about tutorials, tips & tricks regarding SEO, Blogging, WordPress, Blogspot, AdSense, Windows, linux etc. Due to personal problem, I couldn't continue blogging since 2012. Recently i decided to start again. From 2018, I'll continue writing & share my experience, Insha-Allah.
 
 To be continue » »
 
