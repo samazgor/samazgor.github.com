@@ -38,4 +38,4 @@ sudo apt-get install remmina remmina-plugin-rdp
 </figcaption>
 </figure>
 
-Ref: https://bugs.launchpad.net/ubuntu/+source/remmina/+bug/1439478
+<re>Ref: <a href="https://bugs.launchpad.net/ubuntu/+source/remmina/+bug/1439478">Click</a></pre>
