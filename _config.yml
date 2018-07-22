@@ -23,7 +23,7 @@ twitter_username: samazgor
 github_username:  samazgor
 
 # Google Analytics
-analytics_id: ""
+analytics_id: "UA-56619929-2"
 
 # Build settings
 markdown: kramdown
