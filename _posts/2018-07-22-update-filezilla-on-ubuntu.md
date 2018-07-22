@@ -5,7 +5,7 @@ description:
 date: 2018-07-22T01:03:09+00:00
 author: Sam Azgor
 layout: post
-permalink: /upgrade-filezilla-in-ubuntu/
+permalink: /upgrade-filezilla-on-ubuntu/
 image: /assets/images/upgrade-filezilla-on-ubuntu/FileZilla-Update.png
 categories:
   - How-To Tutorials
@@ -33,7 +33,9 @@ cd FileZilla3/
 
 3) Install the missing `libpng16` that FileZilla is requesting:
 
-`sudo apt install libpng16-dev`
+```
+sudo apt install libpng16-dev
+```
 
 Setup the `ubuntu-toolchain-r` PPA for installing the correct version of `libstdc++.so.6` that FileZilla is looking for.
 
@@ -45,12 +47,14 @@ sudo apt-get upgrade
 
 3) Now, copy over the updated FileZilla files to their correct locations by the following command.
 
-`sudo cp -ravx * /usr/`
+```
+sudo cp -ravx * /usr/
+```
 
 That's it. Run filezilla normally and enjoy the latest version.
 
 <figure>
-<amp-img src="/assets/images/upgrade-filezilla-in-ubuntu/Filezilla3.34.0.png" alt="Update FileZilla on Ubuntu" width="600" height="337" layout="responsive">
+<amp-img src="/assets/images/upgrade-filezilla-on-ubuntu/Filezilla3.34.0.png" alt="Update FileZilla on Ubuntu" width="600" height="337" layout="responsive">
 </amp-img>
 <figcaption>*FileZilla 3.34.0 on Ubuntu 16.04* 
 </figcaption>
