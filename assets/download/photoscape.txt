@@ -1,1 +1,19 @@
-hey
+Application: PhotoScape
+Developer(s): MOOII Tech
+Initial Release: May 28, 2008
+Stable Release: 3.7 / September 11, 2014
+File Size: 20.05MB
+Operating System: NT/2000/XP/Vista/7/8/macOS
+Platform: Microsoft Windows, Mac
+Category: Photo Editors
+Type: Raster graphics editor
+License: Freeware
+Website: www.photoscape.org
+Info: https://en.wikipedia.org/wiki/PhotoScape
+Win 10: https://www.microsoft.com/store/apps/9NBLGGH4TWWG
+Pro: https://www.microsoft.com/store/apps/9NBLGGH511N0
+
+
+PhotoScape is a graphics editing program, developed by MOOII Tech, Korea. The basic concept of PhotoScape is 'easy and fun', allowing users to easily edit photographs taken from their digital cameras or even mobile phones. PhotoScape provides a simple user interface to perform common photo enhancements including color adjustment, cutting, resizing, printing and GIF animation.[1][2] Photoscape operates on Microsoft Windows systems and Mac. It is not available on Linux systems. The default languages are English and Korean, with additional language packages available for download.
+
+Version 3.7 is the current stable release. However, older versions are still available for Windows 98 or ME users. It is distributed free of charge for all users, including commercial bodies.
