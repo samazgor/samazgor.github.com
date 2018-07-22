@@ -15,13 +15,13 @@ tags:
 format: article
 ---
 
-<h2>How to update FileZilla in Ubuntu 16.04 LTS</h2>
-
 When you check for updates within FileZilla, you see that new version is available. How can you update it to the latest version? Here is the solution: how i upgrade from 3.33.0 to 3.34.0.
 
-The latest version is 3.34.0 now (July 22, 2018).
+<h2>How to update FileZilla in Ubuntu 16.04 LTS</h2>
 
-1) The final version will auto downloaded by Filezilla in your Download folder of ubuntu. If not, Download FileZilla Client for Linux <a href="https://filezilla-project.org/download.php?type=client">from here</a>. For my instance the file name is "FileZilla_3.34.0_x86_64-linux-gnu.tar.bz2".
+> The latest version is 3.34.0 now (July 22, 2018).
+
+1) The final version will auto downloaded by Filezilla in your Download folder of ubuntu. If not, Download FileZilla Client for Linux <a href="https://filezilla-project.org/download.php?type=client">from here</a>. For my instance the file name is <strong>"FileZilla_3.34.0_x86_64-linux-gnu.tar.bz2"<strong>.
 
 2) Open Terminal paste the following code. (Extract the archive file and navigate to FileZill3 folder)
 
