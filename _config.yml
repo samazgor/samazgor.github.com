@@ -8,8 +8,7 @@
 # Site settings
 title: Sam Azgor
 email: sam@azgor.com
-description: >
-  Webmaster and Sysadmin
+description: Webmaster and Sysadmin
 logo: "/assets/images/logo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sam.azgor.com" # the base hostname & protocol for your site
