@@ -8,7 +8,6 @@ layout: default
       <h1 class="blog-title">{{ site.title }}</h1>
       <h2 class="blog-description">{{ site.description }}</h2>
   </header>
-
   <div class="cf frame">
     {% for post in paginator.posts %}
       <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
@@ -26,6 +25,15 @@ layout: default
       </article>
     {% endfor %}
   </div>
+
+<amp-ad width="100vw" height=320
+  type="adsense"
+  data-ad-client="ca-pub-8223263853196045"
+  data-ad-slot="8487475055"
+  data-auto-format="rspv"
+  data-full-width>
+    <div overflow></div>
+</amp-ad>
 
   <nav class="pagination" role="navigation">
     {% if paginator.next_page %}
