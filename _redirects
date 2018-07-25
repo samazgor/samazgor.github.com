@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://samazgor.netlify.com/* https://sam.azgor.com/:splat 301!
