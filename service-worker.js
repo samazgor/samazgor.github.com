@@ -1,4 +1,6 @@
 // service-worker.js
+importScripts("/assets/js/workbox-v3.3.1/workbox-sw.js");
+            workbox.setConfig({modulePathPrefix: "/assets/js/workbox-v3.3.1"});
 
 // set names for both precache & runtime cache
 workbox.core.setCacheNameDetails({

@@ -30,11 +30,10 @@ markdown: kramdown
 kramdown:
   parse_block_html: true
 
-gems:
+plugins:
   - jekyll-paginate
 
-plugins:
-- jekyll-pwa-plugin
+plugins_dir: ./_plugins
 
 pwa:
   sw_src_filepath: service-worker.js # Optional
