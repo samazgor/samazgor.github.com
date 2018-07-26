@@ -3,9 +3,9 @@
   "short_name": "Sam",
   "theme_color": "#2196f3",
   "background_color": "#005eff",
-  "display": "browser",
+  "display": "standalone",
   "Scope": "/",
-  "start_url": "/",
+  "start_url": "/index.html?source=pwa",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",

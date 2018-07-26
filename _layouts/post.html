@@ -12,6 +12,9 @@ layout: default
 
 <p class="page-img">{% if page.image %}<amp-img width="600" height="300" layout="responsive" src="{{ page.image | prepend: site.baseurl }}" alt="{{ page.title }}" title="{{ page.title }}"></amp-img>{% endif %}</p>
 
+
+
+    <section class="post-content">
 <amp-ad width="100vw" height=320
   type="adsense"
   data-ad-client="ca-pub-8223263853196045"
@@ -20,8 +23,6 @@ layout: default
   data-full-width>
     <div overflow></div>
 </amp-ad>
-
-    <section class="post-content">
       <a name="topofpage"></a>
       {{content}}
     </section>
