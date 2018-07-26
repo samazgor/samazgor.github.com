@@ -5,15 +5,12 @@ GEM
       public_suffix (>= 2.0.2, < 4.0)
     colorator (1.1.0)
     concurrent-ruby (1.0.5)
-    cssminify2 (2.0.1)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
-    execjs (2.7.0)
     ffi (1.9.25)
     forwardable-extended (2.6.0)
-    htmlcompressor (0.4.0)
     http_parser.rb (0.6.0)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
@@ -32,11 +29,6 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-compose (0.8.0)
       jekyll (~> 3.0)
-    jekyll-minifier (0.1.6)
-      cssminify2 (~> 2.0)
-      htmlcompressor (~> 0.3)
-      jekyll (~> 3.5)
-      uglifier (~> 3.2)
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
@@ -63,8 +55,6 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
-    uglifier (3.2.0)
-      execjs (>= 0.3.0, < 3)
 
 PLATFORMS
   ruby
@@ -72,7 +62,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-compose
-  jekyll-minifier
   jekyll-paginate
 
 BUNDLED WITH

@@ -32,7 +32,6 @@ kramdown:
 
 plugins:
   - jekyll-paginate
-  - jekyll-minifier
 
 plugins_dir: ./_plugins
 
