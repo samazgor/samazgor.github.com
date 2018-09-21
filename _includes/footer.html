@@ -1,5 +1,17 @@
 <footer class="site-footer">
-  <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> Subscribe!</span></a>
+  <p><a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> Subscribe!</span> 
+            <span>
+              {% if site.github_username %}
+                {% include icon-github.html username=site.github_username %}
+              {% endif %}
+            </span>
+
+            <span>
+              {% if site.twitter_username %}
+                {% include icon-twitter.html username=site.twitter_username %}
+              {% endif %}
+            </span>
+          </p></a>
     <div class="inner">
          <section class="copyright">&copy; 2012 - {{ site.time | date: '%Y' }} &bull; <a href="mailto:{{ site.url}}">{{ site.name }}</a>  All rights reserved.</section>
          <section class="poweredby">Made with <a href="http://jekyllrb.com" rel="nofollow" target="_blank"> Jekyll</a></section>
