@@ -6,7 +6,7 @@ date: 2018-07-22T01:03:09+00:00
 author: Sam Azgor
 layout: post
 permalink: /upgrade-filezilla-on-ubuntu/
-image: /assets/images/upgrade-filezilla-on-ubuntu/FileZilla-Update.png
+image: /assets/images/upgrade-filezilla-on-ubuntu/FileZilla.png
 categories:
   - How-To Tutorials
 tags:
@@ -20,6 +20,15 @@ When you check for updates within FileZilla, you see that new version is availab
 Here is the solution: how i upgrade from 3.33.0 to 3.34.0.
 
 > The latest version is 3.34.0 now (July 22, 2018).
+
+
+<figure>
+<amp-img src="/assets/images/upgrade-filezilla-on-ubuntu/FileZilla-Update.png" alt="Upgrade FileZilla on Linux" width="600" height="337" layout="responsive">
+</amp-img>
+<figcaption>*Upgrade FileZilla on Linux* 
+</figcaption>
+</figure>
+
 
 <h2>How to update FileZilla in Ubuntu 16.04 LTS</h2>
 
