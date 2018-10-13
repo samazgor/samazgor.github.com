@@ -28,7 +28,7 @@ layout: default
     </section>
     <footer class="post-footer">
       <section class="share">
-        <a class="icon" href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.id }}&text={{page.title | cgi_escape}}&via={{ site.twitter_username }}" target="_blank">
+        <a class="icon" href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.id }}&text={{page.title | cgi_escape}}&via={{ site.twitter_username }}" target="_blank" rel="noreferrer">
           Share on
           {% include icon-twitter.html %}
         </a>
@@ -62,7 +62,7 @@ layout: default
       <div class="isRight">
         <h5 class="index-headline featured"><span>Supported by</span></h5>
         <footer class="site-footer">
-          <section class="poweredby">Proudly published with <a href="http://jekyllrb.com" target="_blank" rel="nofollow"> Jekyll</a> and <a href="https://github.com/ageitgey/amplify" target="_blank" rel="nofollow">Amplify</a></section>
+          <section class="poweredby">Proudly published with <a href="http://jekyllrb.com" target="_blank" rel="nofollow" rel="noreferrer"> Jekyll</a> and <a href="https://github.com/ageitgey/amplify" target="_blank" rel="nofollow" rel="noreferrer">Amplify</a></section>
           <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> Feed.</span></a>
           <!-- A subscription widget -->
 <amp-web-push-widget visibility="unsubscribed" layout="fixed" width="245" height="45">
