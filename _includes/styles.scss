@@ -81,7 +81,7 @@ body {
 
       a {
         text-decoration: none;
-        color: #999999;
+        color: #795548;
         &:hover {
           color: #333333;
         }
@@ -181,7 +181,7 @@ body {
   margin: 0;
   padding: 16px 0;
   span {
-    color: #b3b3b1;
+    color: #673ab7;
     font-size: $rs / 8 * 5;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -483,13 +483,13 @@ body {
   padding: 20px 0 0;
   a {
     text-decoration: none;
-    color: #bbbbbb;
+    color: #000000;
     padding-left: 12px;
     .hidden {
       display: none;
     }
     &:hover {
-      color: #333333;
+      color: #059403;
     }
   }
 }
