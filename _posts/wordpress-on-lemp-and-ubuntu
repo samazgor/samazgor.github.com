@@ -1,0 +1,125 @@
+## Installing (LEMP) Nginx, MySQL, PHP on Ubuntu 16.04
+
+### Prerequisites
+
+1. Step 1: Disabling apache2
+
+```
+sudo apt-get remove apache2
+sudo rm /var/www/html/index.html
+```
+
+Step 2: Installing Nginx
+
+```
+sudo apt-get update
+sudo apt-get install nginx
+```
+
+`http://IP_ADDRESS`
+
+Step 3: Installing MySQL
+
+`sudo apt-get install mysql-server`
+
+improve the security
+
+`sudo mysql_secure_installation`
+
+
+Step 4: Installing PHP
+`sudo apt-get install php-fpm php-mysql`
+
+You need to edit the php.ini file
+
+`sudo nano /etc/php/7.0/fpm/php.ini`
+`cgi.fix_pathinfo=0`
+`memory_limit = 256M`
+`post_max_size = 32M`
+`upload_max_filesize = 100M`
+`file_uploads = On`
+`max_execution_time = 600`
+`max_input_time = 600`
+
+restart of the PHP
+`sudo systemctl restart php7.0-fpm`
+
+Step 5: Setting up MySQL DBs
+mysql -u root -p
+mysql> CREATE DATABASE wordpress;
+mysql> CREATE USER wordpressuser@localhost IDENTIFIED BY "<b>password<b>";
+mysql> GRANT ALL PRIVILEGES ON wordpress.* TO wordpressuser@localhost;
+mysql> FLUSH PRIVILEGES;
+mysql> exit
+
+
+Step 5: Configuring Nginx for WordPress
+`sudo nano /etc/nginx/sites-available/wordpress`
+
+```
+server {
+  listen 80;
+
+  root /var/www/wordpress;
+  index index.php index.html index.htm;
+
+  server_name domain.com;
+
+  error_page 404 /404.html;
+  error_page 500 502 503 504 /50x.html;
+        
+  location = /50x.html {
+    root /usr/share/nginx/html;
+  }
+  
+  location / {
+    try_files $uri $uri/ /index.php?q=$uri&$args;
+  }
+
+  location ~ .php$ {
+    try_files $uri =404;
+    fastcgi_split_path_info ^(.+.php)(/.+)$;
+    fastcgi_pass unix:/run/php/php7.0-fpm.sock;
+    fastcgi_index index.php;
+    fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+    include fastcgi_params;
+  }
+
+  location = /favicon.ico { 
+    log_not_found off;
+    access_log off;
+  }
+  
+  location = /robots.txt {
+    log_not_found off;
+    access_log off;
+    allow all; 
+  }
+  
+  location ~* .(css|gif|ico|jpeg|jpg|js|png)$ {
+    expires max;
+    log_not_found off;
+  }
+}
+```
+
+`sudo nginx -t`
+
+sudo rm /etc/nginx/sites-enabled/default
+
+sudo ln -s /etc/nginx/sites-available/wordpress /etc/nginx/sites-enabled/wordpress
+
+`sudo systemctl reload nginx`
+
+Downloading, configuring, and installing WordPress
+
+sudo mkdir /var/www/wordpress
+cd /var/www/wordpress
+curl -O https://wordpress.org/latest.tar.gz
+cp wp-config-sample.php wp-config.php
+nano wp-config.php
+
+sudo chown -R www-data:www-data /var/www/wordpress
+sudo usermod -a -G www-data www-data
+
+http://YOUR-SERVER-IP/wp-admin
