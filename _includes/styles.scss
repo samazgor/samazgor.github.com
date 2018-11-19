@@ -57,6 +57,8 @@ body {
   -webkit-font-feature-settings: "liga", "dlig";
   -o-font-feature-settings: "liga", "dlig";
   font-feature-settings: "liga", "dlig";
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 
 .site-header {
@@ -514,6 +516,7 @@ pre {
     border: 0;
     padding-right: 0;
     padding-left: 0;
+    white-space: pre-wrap;
   }
 }
 
