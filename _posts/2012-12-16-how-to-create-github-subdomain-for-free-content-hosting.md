@@ -17,13 +17,14 @@ tags:
 <h2 align="center">
 Host Your Own Content For Free At Github Subdomain</h2>
 <a href="" name="About">#</a> <b>GitHub</b> is the best place to share code with friends, co-workers, classmates, and complete strangers. If you are not familiar with GitHub you can see <i>more information: <a href="http://en.wikipedia.org/wiki/GitHub" rel="nofollow" target="_blank">Wiki</a>&nbsp;-&nbsp;<a href="https://github.com/about" rel="nofollow" target="_blank">GitHub</a> - <a href="https://www.google.com/search?q=github" rel="nofollow" target="_blank">Google</a></i>
+
 <i>GitHub</i> is a web-based hosting service for software development projects that use the Git revision control system. You can see most people consider Github just a repository for code, but there’s much more available to you at a Github user if you know how to take advantage of it.&nbsp;In this post you can learn <b>how to create a subdomain from GitHub to host html website for free</b>. We can do this with <a href="http://pages.github.com/" rel="nofollow" target="_blank">GitHub Pages</a> and this is called <b>user page</b>....So lets began...
+
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
 <tr><td style="text-align: center;"><img alt="GitHub Logo" src="https://lh3.googleusercontent.com/-vIt7r7-AU5Y/UM2Z6pIbhXI/AAAAAAAADjo/hkFAPIgeB7o/w2000/github-logo.png" style="margin-left: auto; margin-right: auto;" title="GitHub Logo" /></td></tr>
-<tr><td class="tr-caption" style="text-align: center;">GitHub Logo
-<!--more--></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">GitHub Logo</td></tr>
 </tbody></table>
-<!-- adsense -->
+
 <h3>
 Table of Contents:</h3>
 <ul>
@@ -67,8 +68,7 @@ To host free your html website, it is very easy to <b>setting up a subdomain at 
 <li>Click the "<u>Continue To Layouts</u>" button and select suitable theme for your content.</li>
 <li>Now click the green Tick button to "<u>Publish</u>". <a href="http://src.azgor.com/image/9001/" rel="nofollow" title="Preview Content In Themes"> See The Screenshot.</a></li>
 </ol>
-<h3>
-<a href="" name="Manually">#</a> Manually Generate</h3>
+<h3 name="Manually">Manually Generate</h3>
 <ul>
 <li>I am a little afraid of coding or command line :p but i love the way of coding :) anyway here is the documention - <a href="https://help.github.com/articles/creating-project-pages-manually" rel="nofollow" target="_blank">click here</a></li>
 </ul>
