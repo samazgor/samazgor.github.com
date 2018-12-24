@@ -78,7 +78,7 @@ select-editor
 
 `crontab -l`
 
-If you don't have a crontab file the message "no crontab for <yourname>" will appear.
+If you don't have a crontab file the message _no crontab for `username`_ will appear.
 
 <figure>
 <amp-img src="/assets/images/specify-nano-vim-for-crontab/crontab-l.png" alt="Check if Cron is running" width="683" height="384" layout="responsive">
