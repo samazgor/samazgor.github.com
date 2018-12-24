@@ -120,6 +120,6 @@ crontab -i
 + Ask Ubuntu: <a href="https://askubuntu.com/a/726710/409312">Difference between Nano and Vim</a>
 + stackoverflow: <a href="https://stackoverflow.com/a/17364492/4493086">How to specify a editor to open crontab file</a>
 + Wikipedia: <a href="https://en.wikipedia.org/wiki/Cron">Cron</a>
-+ <a href="https://askubuntu.com/a/264720/409312">Ask Ubuntu: Changing default crontab editor</a>
++ Ask Ubuntu: <a href="https://askubuntu.com/a/264720/409312">Changing default crontab editor</a>
 + Ubuntu Help: <a href="https://help.ubuntu.com/community/CronHowto">CronHowto</a>
 </footer>
