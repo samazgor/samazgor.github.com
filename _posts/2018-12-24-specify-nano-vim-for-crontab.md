@@ -51,11 +51,14 @@ Edit crontab with an editor other than the default
 
 <b>Using nano to edit the cron</b>
 
-`export VISUAL=nano; crontab -e`
+```
+export VISUAL=nano; crontab -e
+```
 
 <b>Using vim to edit the cron</b>
 
-`export VISUAL=vim; crontab -e`
+```export VISUAL=vim; crontab -e
+```
 
 <hr>
 <h2>Setting Nano as the default crontab commandline editor</h2>
@@ -74,9 +77,10 @@ select-editor
 
 <hr>
 
-> Run the following command to check if you have a crontab file:
+Run the following command to check if you have a crontab file:
 
-`crontab -l`
+```crontab -l
+```
 
 If you don't have a crontab file the message _no crontab for `username`_ will appear.
 
@@ -87,23 +91,31 @@ If you don't have a crontab file the message _no crontab for `username`_ will ap
 </figcaption>
 </figure>
 
-> To create or edit a crontab file run the following command:
+To create or edit a crontab file run the following command:
 
-`crontab -e`
+```crontab -e
+```
 
 Default crontab file - <a href="https://gist.github.com/samazgor/ff45bb8bd0210a9789b409536697033d">Gist</a>
 
 <h2>How To Remove A Crontab File</h2>
 However, if you want to remove your user's crontab file run the following command:
 
-`crontab -r`
+```
+crontab -r
+```
 
 A safer way to do this is to run the following command:
 
-`crontab -i`
-
+```
+crontab -i
+```
 <hr>
-<small>Sources: <a href="https://askubuntu.com/a/726710/409312">Ask Ubuntu: Difference between Nano and Vim</a> - <a href="https://askubuntu.com/a/264720/409312">Ask Ubuntu: Changing default crontab editor
-</a> - <a href="https://stackoverflow.com/a/17364492/4493086">stackoverflow: How to specify a editor to open crontab file? “export EDITOR=vi” does not work</a> - <a href="https://en.wikipedia.org/wiki/Cron">Wikipedia</a> | <a href="https://help.ubuntu.com/community/CronHowto">Ubuntu</a></small>
 
-
+<small>Sources:
+  <a href="https://askubuntu.com/a/726710/409312">Ask Ubuntu: Difference between Nano and Vim</a>
+  <a href="https://askubuntu.com/a/264720/409312">Ask Ubuntu: Changing default crontab editor</a>
+  <a href="https://stackoverflow.com/a/17364492/4493086">stackoverflow: How to specify a editor to open crontab file? “export EDITOR=vi” does not work</a>
+  <a href="https://en.wikipedia.org/wiki/Cron">Wikipedia</a>
+  <a href="https://help.ubuntu.com/community/CronHowto">Ubuntu</a>
+</small>
