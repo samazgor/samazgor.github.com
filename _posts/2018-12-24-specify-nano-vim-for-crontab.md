@@ -117,9 +117,9 @@ crontab -i
 
 <footer>
   <h3>Sources/References</h3>
-+ <a href="https://askubuntu.com/a/726710/409312">Ask Ubuntu: Difference between Nano and Vim</a>
++ Ask Ubuntu: <a href="https://askubuntu.com/a/726710/409312">Difference between Nano and Vim</a>
++ stackoverflow: <a href="https://stackoverflow.com/a/17364492/4493086">How to specify a editor to open crontab file</a>
++ Wikipedia: <a href="https://en.wikipedia.org/wiki/Cron">Cron</a>
 + <a href="https://askubuntu.com/a/264720/409312">Ask Ubuntu: Changing default crontab editor</a>
-+ <a href="https://stackoverflow.com/a/17364492/4493086">stackoverflow: How to specify a editor to open crontab file? “export EDITOR=vi” does not work</a>
-+ <a href="https://en.wikipedia.org/wiki/Cron">Wikipedia</a>
-+ <a href="https://help.ubuntu.com/community/CronHowto">Ubuntu</a>
++ Ubuntu Help: <a href="https://help.ubuntu.com/community/CronHowto">CronHowto</a>
 </footer>
