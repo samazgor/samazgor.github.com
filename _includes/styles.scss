@@ -524,17 +524,6 @@ pre {
     opacity: 0;
 }
 h1.post-title{text-align: center;}
-.post .post-content footer h3 {
-    background: #ecececa1;
-    text-align: center;
-    font-size: 15px;
-    padding: 5px;
-}
-.post .post-content footer ul {
-    padding: 0 0 0 30px;
-    background: #ecececa1;
-}
-.post .post-content footer li {
-    font-size: 15px;
-    margin: 0;
-}
+.post .post-content footer h3 { background: #ecececa1; font-size: 15px; padding: 1.618rem 5px 10px 1.618rem; margin: 0; }
+.post .post-content footer ul { padding: 0 0 1.618rem 1.618rem; background: #ecececa1; }
+.post .post-content footer li { font-size: 15px; margin: 0; }
