@@ -57,7 +57,8 @@ export VISUAL=nano; crontab -e
 
 <b>Using vim to edit the cron</b>
 
-```export VISUAL=vim; crontab -e
+```
+export VISUAL=vim; crontab -e
 ```
 
 <hr>
@@ -79,7 +80,8 @@ select-editor
 
 Run the following command to check if you have a crontab file:
 
-```crontab -l
+```
+crontab -l
 ```
 
 If you don't have a crontab file the message _no crontab for `username`_ will appear.
@@ -93,7 +95,8 @@ If you don't have a crontab file the message _no crontab for `username`_ will ap
 
 To create or edit a crontab file run the following command:
 
-```crontab -e
+```
+crontab -e
 ```
 
 Default crontab file - <a href="https://gist.github.com/samazgor/ff45bb8bd0210a9789b409536697033d">Gist</a>
