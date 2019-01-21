@@ -34,7 +34,7 @@ amp-web-push-widget button.unsubscribe {display: inline-flex;align-items: center
   <script async src="https://cdn.ampproject.org/v0.js"></script>
 <script async custom-element="amp-auto-ads" src="https://cdn.ampproject.org/v0/amp-auto-ads-0.1.js"></script>
 <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
-<link rel="manifest" href="/assets/PWA/manifest.json">
+<link rel="manifest" href="{{ "/assets/PWA/manifest.json" | prepend: site.baseurl | prepend: site.url }}">
 <meta name="theme-color" content="#2196f3"/>
 <script async custom-element="amp-install-serviceworker" src="https://cdn.ampproject.org/v0/amp-install-serviceworker-0.1.js"></script>
 <script async custom-element="amp-web-push" src="https://cdn.ampproject.org/v0/amp-web-push-0.1.js"></script>
