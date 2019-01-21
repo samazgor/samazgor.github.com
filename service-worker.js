@@ -31,6 +31,6 @@ workbox.routing.registerRoute(
 
 // third party files
 workbox.routing.registerRoute(
-    /^https?:\/\/cdn.staticfile.org/,
+/(.*)cdn\.ampproject\.org(.*)/,
     workbox.strategies.staleWhileRevalidate()
 );
