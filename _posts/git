@@ -7,6 +7,9 @@ git add .
 git commit -m "jk"
 git push origin BRANCH:BRANCH
 
+## empty branch
+git checkout --orphan <branchname>
+git rm --cached -r .
 
 git clone https://github.com/samazgor/repository.git
 git remote add origin https://github.com/samazgor/repository.git
