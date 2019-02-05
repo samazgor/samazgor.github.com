@@ -1,3 +1,13 @@
+mkdir BRANCH
+cd BRANCH
+git init
+git remote add -t BRANCH -f origin https://github.com/digitechpoint/digitechpoint.github.io
+git checkout BRANCH
+git add .
+git commit -m "jk"
+git push origin BRANCH:BRANCH
+
+
 git clone https://github.com/samazgor/repository.git
 git remote add origin https://github.com/samazgor/repository.git
 git init
