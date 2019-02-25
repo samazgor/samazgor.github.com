@@ -17,7 +17,7 @@ format: article
 
 Would you like to get a list of Python modules? There are many ways you can get the list of installed packages on python. Here is How can you get a list of Python modules installed in your machine?
 
-<h2>How to check installed modules in Python?</h2>
+### How to check installed modules in Python?
 
 <figure>
 <amp-img src="/assets/images/check-python-modules/py-help.png" alt="Python Help" width="600" height="337" layout="responsive">
@@ -76,5 +76,10 @@ pydoc modules
 ```
 
 <hr>
-<pre>Ref: 
-<a href="https://docs.python.org/2/library/pydoc.html" target="_blank" rel="noreferrer">Python 2</a> | <a href="https://docs.python.org/3.7/library/pydoc.html" target="_blank" rel="noreferrer">Python 3</a> | <a href="http://xahlee.info/python/standard_modules.html" target="_blank" rel="noreferrer">Xah Lee</a> |  <a href="https://stackoverflow.com/q/739993/4493086" target="_blank" rel="noreferrer">Click</a></pre>
+<footer>
+### Sources/References
++ Python 2 Documentation: <a href="https://docs.python.org/2/library/pydoc.html" target="_blank" rel="noreferrer">Click</a> 
++ Python 3 Documentation: <a href="https://docs.python.org/3.7/library/pydoc.html" target="_blank" rel="noreferrer">Click</a>
++ Xah Lee: <a href="http://xahlee.info/python/standard_modules.html" target="_blank" rel="noreferrer">List Modules..</a>
++ stackoverflow: <a href="https://stackoverflow.com/q/739993/4493086" target="_blank" rel="noreferrer">Click</a>
+</footer>
