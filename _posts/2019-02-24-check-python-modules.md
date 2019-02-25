@@ -2,7 +2,7 @@
 layout: post
 title: How to check installed modules in Python?
 description: There are many ways you can get the list of installed packages on python.
-date: 2019-02-25T01:03:08+00:00
+date: 2019-02-24T01:03:08+00:00
 author: Sam Azgor
 layout: post
 permalink: /check-python-modules/
