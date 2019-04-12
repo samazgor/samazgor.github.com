@@ -1,0 +1,16 @@
+current directory: /home/sam/Android/Github/samazgor/vendor/bundle/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/bin/ruby2.5 -r ./siteconf20190430-31624-njz14.rb extconf.rb
+creating Makefile
+
+current directory: /home/sam/Android/Github/samazgor/vendor/bundle/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /home/sam/Android/Github/samazgor/vendor/bundle/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/sam/Android/Github/samazgor/vendor/bundle/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20190430-31624-1aopeh
