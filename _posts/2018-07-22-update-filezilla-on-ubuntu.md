@@ -4,7 +4,6 @@ title: How To Upgrade Filezilla to Latest Version on Ubuntu 16.04
 description: 
 date: 2018-07-22T01:03:09+00:00
 author: Sam Azgor
-layout: post
 permalink: /upgrade-filezilla-on-ubuntu/
 image: /assets/images/upgrade-filezilla-on-ubuntu/FileZilla.png
 categories:
@@ -12,6 +11,7 @@ categories:
 tags:
   - How-To
   - Filezilla
+  - Article
 format: article
 ---
 

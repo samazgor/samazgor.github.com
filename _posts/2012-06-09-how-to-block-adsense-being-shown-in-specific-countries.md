@@ -12,6 +12,7 @@ categories:
 tags:
   - AdSense
   - How-To
+  - Article
 ---
 If you are an <b><a href="https://www.google.com/search?q=AdSense+publisher" target="_blank" rel="nofollow">AdSense publisher</a></b>, sometimes it may essential to block your <b>AdSense ads being shown in specific countries</b>.
 

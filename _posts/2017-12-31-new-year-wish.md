@@ -4,13 +4,13 @@ title: Happy New Year 2018
 description: Welcome 2018. It is time to leave the old year behind and usher in the new.
 date: 2017-12-31T11:23:59+00:00
 author: Sam Azgor
-layout: post
 permalink: /welcome-2018/
 image: /assets/images/new-year-wish/welcome-2018.jpg
 categories:
   - Others
 tags:
   - Others
+  - Article
 format: status
 ---
 

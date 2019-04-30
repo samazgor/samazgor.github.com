@@ -4,7 +4,6 @@ title: Ubuntu 16.04 Fixing no copy and paste into Remmina RDP Client
 description: 
 date: 2018-01-23T11:23:59+00:00
 author: Sam Azgor
-layout: post
 permalink: /remmina-rdp-copy-paste-issue/
 image: /assets/images/remmina-rdp-ubuntu/remmina-rdp-copy-paste-issue.png
 categories:
@@ -12,6 +11,7 @@ categories:
 tags:
   - How-To
   - RDP
+  - Article
 format: article
 ---
 

@@ -1,12 +1,11 @@
 ---
-layout: post
+layout: page
 title: PhotoScape
 description: PhotoScape
 date: 2019-04-11T01:03:08+00:00
 author: Sam Azgor
-layout: post
 permalink: /photoscape-download/
-image: /assets/images/photoscape-download/PhotoScape-Screenshot.png
+image: /software/images/photoscape-download/PhotoScape.jpg
 categories: [Software]
 tags: [PhotoScape, Download, Windows]
 format: article
@@ -14,6 +13,7 @@ excerpt: PhotoScape is a graphics editing program, developed by MOOII Tech, Kore
 excerpt_separator: <!--more-->
 hidden: true
 visible: 1
+exclude: true
 ---
 
 PhotoScape is a graphics editing program, developed by MOOII Tech, Korea. The basic concept of PhotoScape is 'easy and fun', allowing users to easily edit photographs taken from their digital cameras or even mobile phones.
@@ -22,7 +22,7 @@ PhotoScape is a graphics editing program, developed by MOOII Tech, Korea. The ba
 ### PhotoScape : Free Photo Editing Software (Photo Editor) Download
 
 <figure>
-<amp-img src="/assets/images/photoscape-download/py-help.png" alt="PhotoScape" width="600" height="337" layout="responsive">
+<amp-img src="/software/images/photoscape-download/PhotoScape-Screenshot.jpg" alt="PhotoScape" width="600" height="337" layout="responsive">
 </amp-img>
 <figcaption>*PhotoScape* 
 </figcaption>
@@ -44,7 +44,7 @@ PhotoScape is a graphics editing program, developed by MOOII Tech, Korea. The ba
 ## Screenshots
 
 <figure>
-<amp-img src="/assets/images/photoscape-download/PhotoScape.png" alt="PhotoScape" width="500" height="500" layout="responsive">
+<amp-img src="/software/images/photoscape-download/PhotoScape.jpg" alt="PhotoScape" width="500" height="500" layout="responsive">
 </amp-img>
 <figcaption>*PhotoScape Logo* 
 </figcaption>

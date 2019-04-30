@@ -5,7 +5,6 @@ shortlink: http://sam.azgor.com/?p=2051
 title: How To Hide A Specific WordPress Post From Home Page
 date: 2014-01-08T20:25:26+00:00
 author: Sam Azgor
-layout: post
 permalink: /hide-a-specific-wordpress-post-from-home-page/
 image: /assets/images/hide-a-specific-wordpress-post-from-home-page/default.png
 categories:
@@ -13,6 +12,7 @@ categories:
 tags:
   - How-To
   - WordPress
+  - Article
 format: article
 ---
 <p>Don’t want a post to be appeared on the front/ Category/ Tag/ Author page or feed? Learn how to hide a specific WordPress post from home page. Cos' You might like to filter few posts to be displayed.</p>

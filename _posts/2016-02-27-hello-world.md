@@ -4,13 +4,13 @@ id: 45
 title: Hello World
 date: 2016-02-27T04:24:17+00:00
 author: Sam Azgor
-layout: post
 permalink: /hello-world/
 image: /wp-content/uploads/2016/02/HelloWorld.png
 categories:
   - Others
 tags:
   - Others
+  - Article
 format: status
 ---
 Hi everyone,

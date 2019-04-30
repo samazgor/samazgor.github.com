@@ -4,7 +4,6 @@ id: 1218
 title: Specify Editor for Crontab File
 date: 2018-12-24T04:24:19+00:00
 author: Sam Azgor
-layout: post
 permalink: /specify-nano-vim-for-crontab/
 image: /assets/images/specify-nano-vim-for-crontab/Crontab-File.png
 categories:
@@ -12,6 +11,7 @@ categories:
 tags:
   - How-To
   - Editor
+  - Article
 format: article
 ---
 Many people love using Vim in command line. But Nano is easier to use if you are not familiar with vim. Different between Nano & Vim.

@@ -12,6 +12,7 @@ categories:
 tags:
   - GitHub
   - How-To
+  - Article
 ---
 
 <h2 align="center">
