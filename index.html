@@ -17,7 +17,7 @@ tags: Article
           <header class="post-header">
             <h2 class="post-title" itemprop="name"><a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
           </header>
-          <p class="page-img">{% if post.image %}<amp-img width="600" height="300" layout="responsive" src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}"></amp-img>{% endif %}</p>
+          <p class="page-img"><a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">{% if post.image %}<amp-img width="600" height="300" layout="responsive" src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}"></amp-img>{% endif %}</a></p>
           <section class="post-excerpt" itemprop="description">
             <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
           </section>
