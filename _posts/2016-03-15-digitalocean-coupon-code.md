@@ -14,6 +14,7 @@ tags:
   - DigitalOcean
   - VPS
   - Article
+ excerpt: DigitalOcean, Inc. cloud infrastructure provider. If you’re reading my article which means you are interested in DigitalOcean coupon. So, in this article i’ll show how you can get 10 months free SSD cloud server from DigitalOcean.
 ---
 <strong>DigitalOcean, Inc.</strong> or in short <strong>DO</strong> is a US based cloud infrastructure provider that provisions VPS for software developers (<em>Wikipedia</em>). If you're reading my article which means you are interested in Virtual Private Server and specifically in DigitalOcean. So, in this article i'll show how you can get 10 months free SSD cloud server from DigitalOcean. It'll save you a lot and if you are newbie you can learn vps, linux, cloud hosting etc with these credits.
 
