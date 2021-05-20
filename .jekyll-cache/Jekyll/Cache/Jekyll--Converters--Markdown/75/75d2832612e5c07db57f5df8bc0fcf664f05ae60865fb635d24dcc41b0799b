@@ -1,0 +1,113 @@
+I"�<p>Many people love using Vim in command line. But Nano is easier to use if you are not familiar with vim. Different between Nano &amp; Vim.</p>
+
+<h3>Nano:</h3>
+
+<ul>
+  <li>Easy to use and master.</li>
+  <li>Nano has most of the shortcuts listed at the bottom of the window, making it extremely simple to use.</li>
+  <li>Search function</li>
+  <li>Search and replace</li>
+  <li>“Goto line” command</li>
+  <li>Automatic indentation</li>
+</ul>
+
+<h3>Vim:</h3>
+
+<ul>
+  <li>Tough to get started with and master. The editing and command modes will confuse beginners.</li>
+  <li>Session recovery</li>
+  <li>Split screen</li>
+  <li>Tab expansion</li>
+  <li>Completion commands</li>
+  <li>Syntax coloring</li>
+</ul>
+
+<figure>
+  <amp-img src="/assets/images/specify-nano-vim-for-crontab/Nano-vs-Vim.png" alt="Vim vs Nano Editor" width="683" height="384" layout="responsive">
+</amp-img>
+  <figcaption>
+    <p><em>Vim vs Nano Editor</em></p>
+  </figcaption>
+</figure>
+
+<h2>The Crontab File</h2>
+<p>Cron is a tool for configuring scheduled tasks on Unix systems. It is used to schedule commands or scripts to run periodically and at fixed intervals.</p>
+
+<p>The command crontab (cron table) is used to edit the list of scheduled tasks in operation, and is done on a per-user basis. Each user, including root, can have a cron file. So the user who has appropriate permissions can create their own crontab file.</p>
+
+<h2>How to specify nano or vim as editor for crontab file</h2>
+<p>Edit crontab with an editor other than the default</p>
+
+<p><b>Using nano to edit the cron</b></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>export VISUAL=nano; crontab -e
+</code></pre></div></div>
+
+<p><b>Using vim to edit the cron</b></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>export VISUAL=vim; crontab -e
+</code></pre></div></div>
+
+<hr />
+
+<h2>Setting Nano as the default crontab commandline editor</h2>
+<p>Enter following command and select <code class="language-plaintext highlighter-rouge">1</code></p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>select-editor
+</code></pre></div></div>
+
+<figure>
+  <amp-img src="/assets/images/specify-nano-vim-for-crontab/Nano-as-the-default-editor.png" alt="Nano as the default Commandline Editor" width="683" height="384" layout="responsive">
+</amp-img>
+  <figcaption>
+    <p><em>Nano as the default Commandline Editor</em></p>
+  </figcaption>
+</figure>
+
+<hr />
+
+<p>Run the following command to check if you have a crontab file:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>crontab -l
+</code></pre></div></div>
+
+<p>If you don’t have a crontab file the message <em>no crontab for <code class="language-plaintext highlighter-rouge">username</code></em> will appear.</p>
+
+<figure>
+  <amp-img src="/assets/images/specify-nano-vim-for-crontab/crontab-l.png" alt="Check if Cron is running" width="683" height="384" layout="responsive">
+</amp-img>
+  <figcaption>
+    <p><em>Check if Cron is running</em></p>
+  </figcaption>
+</figure>
+
+<p>To create or edit a crontab file run the following command:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>crontab -e
+</code></pre></div></div>
+
+<p>Default crontab file - <a href="https://gist.github.com/samazgor/ff45bb8bd0210a9789b409536697033d">Gist</a></p>
+
+<h2>How To Remove A Crontab File</h2>
+<p>However, if you want to remove your user’s crontab file run the following command:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>crontab -r
+</code></pre></div></div>
+
+<p>A safer way to do this is to run the following command:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>crontab -i
+</code></pre></div></div>
+<hr />
+
+<footer>
+  <h3>Sources/References</h3>
+  <ul>
+    <li>Ask Ubuntu: <a href="https://askubuntu.com/a/726710/409312">Difference between Nano and Vim</a></li>
+    <li>stackoverflow: <a href="https://stackoverflow.com/a/17364492/4493086">How to specify a editor to open crontab file</a></li>
+    <li>Wikipedia: <a href="https://en.wikipedia.org/wiki/Cron">Cron</a></li>
+    <li>Ask Ubuntu: <a href="https://askubuntu.com/a/264720/409312">Changing default crontab editor</a></li>
+    <li>Ubuntu Help: <a href="https://help.ubuntu.com/community/CronHowto">CronHowto</a></li>
+  </ul>
+</footer>
+:ET

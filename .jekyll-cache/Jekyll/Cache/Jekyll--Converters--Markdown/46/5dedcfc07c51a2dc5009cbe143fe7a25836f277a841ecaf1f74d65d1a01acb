@@ -1,0 +1,25 @@
+I"9<h2>Cannot get Remmina to copy and paste from client to server?</h2>
+
+<p>Here is the solution:</p>
+
+<p>1) Open Terminal and paste the following code</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt-add-repository ppa:remmina-ppa-team/remmina-next
+
+sudo apt-get update
+
+sudo apt-get install remmina remmina-plugin-rdp
+</code></pre></div></div>
+
+<p>2) Now close Remmina RDP Client and open it again.</p>
+
+<figure>
+  <amp-img src="/assets/images/remmina-rdp-ubuntu/terminal.png" alt="Remmina RDP Client" width="600" height="300" layout="responsive">
+</amp-img>
+  <figcaption>
+    <p><em>Ubuntu 16.04 Terminal</em></p>
+  </figcaption>
+</figure>
+
+<pre>Ref: <a href="https://bugs.launchpad.net/ubuntu/+source/remmina/+bug/1439478" rel="noreferrer">Click</a></pre>
+:ET

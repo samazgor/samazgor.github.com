@@ -1,0 +1,69 @@
+I"‰<p>Would you like to get a list of Python modules? There are many ways you can get the list of installed packages on python. Here is How can you get a list of Python modules installed in your machine?</p>
+
+<h3 id="how-to-check-installed-modules-in-python">How to check installed modules in Python?</h3>
+
+<figure>
+  <amp-img src="/assets/images/check-python-modules/py-help.png" alt="Python Help" width="600" height="337" layout="responsive">
+</amp-img>
+  <figcaption>
+    <p><em>Python Help</em></p>
+  </figcaption>
+</figure>
+
+<h2 id="1-using-help-function">1. Using help function.</h2>
+
+<p>You can use <code class="language-plaintext highlighter-rouge">help function</code> in python shell to get the list of modules installed.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>help("modules")
+</code></pre></div></div>
+<p>or</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>help('modules package')
+</code></pre></div></div>
+
+<figure>
+  <amp-img src="/assets/images/check-python-modules/py-pip.png" alt="Python pip" width="600" height="337" layout="responsive">
+</amp-img>
+  <figcaption>
+    <p><em>pip</em></p>
+  </figcaption>
+</figure>
+
+<h2 id="2-using-python-pip">2. using python-pip</h2>
+
+<p>Install <code class="language-plaintext highlighter-rouge">pip</code> by the following command.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt-get install python-pip
+</code></pre></div></div>
+<p>then enter this</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pip freeze
+</code></pre></div></div>
+<p>or</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pip list
+</code></pre></div></div>
+
+<figure>
+  <amp-img src="/assets/images/check-python-modules/pydoc.png" alt="Pydoc" width="600" height="337" layout="responsive">
+</amp-img>
+  <figcaption>
+    <p><em>pydoc</em></p>
+  </figcaption>
+</figure>
+
+<h2 id="3-using-pydoc">3. Using pydoc</h2>
+
+<p>Enter the following command in your terminal</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pydoc modules
+</code></pre></div></div>
+
+<hr />
+
+<footer>
+  <h3 id="sourcesreferences">Sources/References</h3>
+  <ul>
+    <li>Python 2 Documentation: <a href="https://docs.python.org/2/library/pydoc.html" target="_blank" rel="noreferrer">Click</a></li>
+    <li>Python 3 Documentation: <a href="https://docs.python.org/3.7/library/pydoc.html" target="_blank" rel="noreferrer">Click</a></li>
+    <li>Xah Lee: <a href="http://xahlee.info/python/standard_modules.html" target="_blank" rel="noreferrer">List Modules..</a></li>
+    <li>stackoverflow: <a href="https://stackoverflow.com/q/739993/4493086" target="_blank" rel="noreferrer">Click</a></li>
+  </ul>
+</footer>
+:ET
