@@ -24,10 +24,7 @@
     {% include styles.scss %}
   {% endcapture %}
   {{ include_to_scssify | scssify }}
-amp-web-push-widget button.subscribe {display: inline-flex;align-items: center;border-radius: 2px;border: 0;box-sizing: border-box;margin: 0;padding: 10px 15px;cursor: pointer;outline: none;font-size: 15px;font-weight: 400;background: #4A90E2;color: white;box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);-webkit-tap-highlight-color: rgba(0, 0, 0, 0);}
-amp-web-push-widget button.subscribe .subscribe-icon {margin-right: 10px;}
-amp-web-push-widget button.subscribe:active {transform: scale(0.99);}
-amp-web-push-widget button.unsubscribe {display: inline-flex;align-items: center;justify-content: center;height: 45px;border: 0;margin: 0;cursor: pointer;outline: none;font-size: 15px;font-weight: 400;background: transparent;color: #B1B1B1;-webkit-tap-highlight-color: rgba(0, 0, 0, 0);}
+
 </style>
 
   <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
@@ -37,5 +34,5 @@ amp-web-push-widget button.unsubscribe {display: inline-flex;align-items: center
 <link rel="manifest" href="{{ "/assets/PWA/manifest.json" | prepend: site.baseurl | prepend: site.url }}">
 <meta name="theme-color" content="#2196f3"/>
 <script async custom-element="amp-install-serviceworker" src="https://cdn.ampproject.org/v0/amp-install-serviceworker-0.1.js"></script>
-<script async custom-element="amp-web-push" src="https://cdn.ampproject.org/v0/amp-web-push-0.1.js"></script>
+
 </head>

@@ -5,7 +5,7 @@ title: এডসেন্স ফর কনটেন্ট সম্পর্ক�
 date: 2011-03-24T04:24:19+00:00
 author: Sam Azgor
 permalink: /lets-know-ads-for-content/
-image: /assets/images/lets-know-ads-for-content/AdSense.png
+image: /wp-content/uploads/lets-know-ads-for-content/AdSense.png
 categories:
   - Blogs
 tags:
