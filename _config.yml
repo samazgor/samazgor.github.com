@@ -35,6 +35,9 @@ plugins:
 
 plugins_dir: ./_plugins
 
+include:
+  - _redirects
+  
 pwa:
   sw_src_filepath: service-worker.js # Optional
   sw_dest_filename: service-worker.js # Optional
@@ -70,5 +73,3 @@ jekyll-minifier:
   preserve_line_breaks: false       # Default: false
   simple_boolean_attributes: false  # Default: false
   compress_js_templates: false      # Default: false
-  
-  include: [_redirects]
