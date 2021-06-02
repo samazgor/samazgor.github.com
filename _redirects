@@ -1,2 +1,4 @@
 # Redirect default Netlify subdomain to primary domain
 https://samazgor.netlify.com/* https://sam.azgor.com/:splat 301!
+
+/2011/03/lets-know-ads-for-content.html /lets-know-ads-for-content/
