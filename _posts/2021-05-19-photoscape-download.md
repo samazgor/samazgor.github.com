@@ -58,7 +58,7 @@ PhotoScape is a graphics editing program, developed by MOOII Tech, Korea. The ba
 
 
 <figure>
-<amp-img src="/assets/images/photoscape-download/PhotoScape-Screenshot.png" alt="photoscape-download" width="600" height="442" layout="responsive">
+<amp-img src="/assets/images/photoscape-download/PhotoScape-Screenshot.jpg" alt="photoscape-download" width="600" height="442" layout="responsive">
 </amp-img>
 <figcaption>*PhotoScape* 
 </figcaption>
