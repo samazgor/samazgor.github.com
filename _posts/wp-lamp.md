@@ -49,17 +49,22 @@ sudo systemctl reload sshd
 ```
 
 
-
+```
 sftp://IP_ADDRESS
 U: dtpuser
 P: YOUR_STRONG_PASS
+```
 
 ## FTP & Apache
+```
 sudo mkdir /var/www/azgor.com
+```
 
+```
 sudo adduser dtpuser
-fr^4aW9j5#78k
+```
 
+```
 sudo groupadd wordpress
 sudo usermod -aG wordpress dtpuser
 sudo usermod -aG wordpress www-data
@@ -94,6 +99,7 @@ sudo apache2ctl configtest
 systemctl reload apache2
 sudo systemctl restart apache2
 sudo a2enmod rewrite
+```
 
 ## SSL
 sudo snap install core; sudo snap refresh core
@@ -102,15 +108,18 @@ sudo ln -s /snap/bin/certbot /usr/bin/certbot
 sudo certbot --apache
 
 ## MySQL
+```
 sudo apt install mysql-server -y
 sudo mysql -u root -p
+```
 
+```
 CREATE DATABASE db_name;
 CREATE USER 'db_user' IDENTIFIED BY 'STRONG_PASSWORD';
 GRANT ALL PRIVILEGES ON db_name.* TO 'db_user';
 FLUSH PRIVILEGES;
 EXIT;
-
+```
 ## PHP
 sudo apt install php-fpm php-mysql -y
 sudo nano /etc/php/7.4/fpm/php.ini
