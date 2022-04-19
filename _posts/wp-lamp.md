@@ -82,7 +82,7 @@ sudo systemctl status apache2
 sudo systemctl restart apache2
 hostname -I
 
-sudo nano /etc/apache2/sites-available/db_name.conf
+sudo nano /etc/apache2/sites-available/azgor.conf
 
 <VirtualHost *:80>
     ServerAdmin sam@azgor.com
@@ -93,7 +93,7 @@ sudo nano /etc/apache2/sites-available/db_name.conf
     CustomLog ${APACHE_LOG_DIR}/access.log combined
 </VirtualHost>
 
-sudo a2ensite homecleany.conf
+sudo a2ensite azgor.conf
 sudo a2dissite 000-default.conf
 sudo apache2ctl configtest
 systemctl reload apache2
