@@ -121,6 +121,7 @@ FLUSH PRIVILEGES;
 EXIT;
 ```
 ## PHP
+```
 sudo apt install php-fpm php-mysql -y
 sudo nano /etc/php/7.4/fpm/php.ini
 cgi.fix_pathinfo=0
@@ -130,8 +131,11 @@ upload_max_filesize = 128M
 file_uploads = On
 max_execution_time = 600
 max_input_time = 600
+```
 
+```
 sudo systemctl restart php7.4-fpm
+```
 
 sudo apt install php-curl php-gd php-mbstring php-xml php-xmlrpc php-zip php-cli -y
 sudo apt-get install libapache2-mod-php -y
