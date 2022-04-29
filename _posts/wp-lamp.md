@@ -31,7 +31,7 @@ Inthis tutorial, we’ll learn how to set up and run WordPress blog or site on a
 First lets update the server. 
 
 ```
-sudo apt update && upgrade
+sudo apt update && sudo apt upgrade
 ```
 
 Now, lets enable ftp.
@@ -102,10 +102,13 @@ sudo a2enmod rewrite
 ```
 
 ## SSL
+
+```
 sudo snap install core; sudo snap refresh core
 sudo snap install --classic certbot
 sudo ln -s /snap/bin/certbot /usr/bin/certbot
 sudo certbot --apache
+```
 
 ## MySQL
 ```
@@ -123,7 +126,7 @@ EXIT;
 ## PHP
 ```
 sudo apt install php-fpm php-mysql -y
-sudo nano /etc/php/7.4/fpm/php.ini
+sudo nano /etc/php/7.4/apache2/php.ini
 cgi.fix_pathinfo=0
 memory_limit = 256M
 post_max_size = 128M
@@ -137,8 +140,10 @@ max_input_time = 600
 sudo systemctl restart php7.4-fpm
 ```
 
+```
 sudo apt install php-curl php-gd php-mbstring php-xml php-xmlrpc php-zip php-cli -y
 sudo apt-get install libapache2-mod-php -y
+```
 
 
 <hr>
