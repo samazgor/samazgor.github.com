@@ -91,6 +91,13 @@ sudo nano /etc/apache2/sites-available/azgor.conf
     DocumentRoot /var/www/azgor.com
     ErrorLog ${APACHE_LOG_DIR}/error.log
     CustomLog ${APACHE_LOG_DIR}/access.log combined
+    
+<Directory /var/www/azgor.com>
+    Options -Indexes +FollowSymLinks +MultiViews
+    AllowOverride All
+    Require all granted
+</Directory>
+
 </VirtualHost>
 
 sudo a2ensite azgor.conf
