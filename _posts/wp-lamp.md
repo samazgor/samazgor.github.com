@@ -69,8 +69,8 @@ sudo groupadd wordpress
 sudo usermod -aG wordpress dtpuser
 sudo usermod -aG wordpress www-data
 sudo chown -R www-data:wordpress /var/www/azgor.com
-sudo find /var/www/azgor.com/ -type d -exec chmod 0750 {} \;
-sudo find /var/www/azgor.com/ -type f -exec chmod 0640 {} \;
+sudo find /var/www/azgor.com/ -type d -exec chmod 0775 {} \;
+sudo find /var/www/azgor.com/ -type f -exec chmod 0664 {} \;
 
 cd /var/www/azgor.com
 curl -O https://wordpress.org/latest.tar.gz
