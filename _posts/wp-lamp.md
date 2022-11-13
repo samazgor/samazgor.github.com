@@ -117,6 +117,15 @@ sudo ln -s /snap/bin/certbot /usr/bin/certbot
 sudo certbot --apache
 ```
 
+If the site does not load, check the ports 
+
+```
+sudo ufw status
+sudo ufw allow 22
+sudo ufw allow 80
+sudo ufw allow 443
+```
+
 ## MySQL
 ```
 sudo apt install mysql-server -y
