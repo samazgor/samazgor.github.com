@@ -54,8 +54,15 @@ sftp://IP_ADDRESS
 U: dtpuser
 P: YOUR_STRONG_PASS
 ```
-
 ## FTP & Apache
+
+```
+sudo apt install apache2
+sudo systemctl status apache2
+sudo systemctl restart apache2
+hostname -I
+```
+
 ```
 sudo mkdir /var/www/azgor.com
 ```
@@ -76,11 +83,6 @@ cd /var/www/azgor.com
 curl -O https://wordpress.org/latest.tar.gz
 tar xzvf latest.tar.gz --strip 1
 rm -rf latest.tar.gz
-
-sudo apt install apache2
-sudo systemctl status apache2
-sudo systemctl restart apache2
-hostname -I
 
 sudo nano /etc/apache2/sites-available/azgor.conf
 
