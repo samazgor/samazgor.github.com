@@ -83,9 +83,13 @@ cd /var/www/azgor.com
 curl -O https://wordpress.org/latest.tar.gz
 tar xzvf latest.tar.gz --strip 1
 rm -rf latest.tar.gz
+```
 
+```
 sudo nano /etc/apache2/sites-available/azgor.conf
+```
 
+```
 <VirtualHost *:80>
     ServerAdmin sam@azgor.com
     ServerName azgor.com
@@ -101,7 +105,9 @@ sudo nano /etc/apache2/sites-available/azgor.conf
 </Directory>
 
 </VirtualHost>
+```
 
+```
 sudo a2ensite azgor.conf
 sudo a2dissite 000-default.conf
 sudo apache2ctl configtest
@@ -144,7 +150,21 @@ EXIT;
 ## PHP
 ```
 sudo apt install php-fpm php-mysql -y
-sudo nano /etc/php/7.4/apache2/php.ini
+```
+
+```
+sudo apt install php-curl php-gd php-mbstring php-xml php-xmlrpc php-zip php-cli -y
+```
+
+```
+sudo apt-get install libapache2-mod-php -y
+```
+
+```
+sudo nano /etc/php/8.1/apache2/php.ini
+```
+
+```
 cgi.fix_pathinfo=0
 memory_limit = 256M
 post_max_size = 128M
@@ -155,13 +175,9 @@ max_input_time = 600
 ```
 
 ```
-sudo systemctl restart php7.4-fpm
+sudo systemctl restart php8.1-fpm
 ```
 
-```
-sudo apt install php-curl php-gd php-mbstring php-xml php-xmlrpc php-zip php-cli -y
-sudo apt-get install libapache2-mod-php -y
-```
 
 
 <hr>
