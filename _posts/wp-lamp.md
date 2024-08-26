@@ -42,6 +42,8 @@ sudo nano /etc/ssh/sshd_config
 
 Modify this line `PasswordAuthentication no` and make it `PasswordAuthentication yes`.
 
+Also check `/etc/ssh/sshd_config.d/50-cloud-init.conf`
+
 Now restart the SSH
 
 ```
